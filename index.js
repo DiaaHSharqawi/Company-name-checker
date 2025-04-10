@@ -1,3 +1,5 @@
+// TODO : FIX the sol 
+
 var companies = {
   hardware: ["company1", "globalTech", "company2"],
   software: ["Asal", "InfiniteTiers", "Exhausted"],
